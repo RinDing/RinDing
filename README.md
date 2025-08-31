@@ -23,3 +23,8 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
+
+<!-- Tech Stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,linux,vscode,cpp,r,julia,latex,html,javascript"/> </br>
+</div>
